@@ -1,6 +1,7 @@
 ;<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 ; variadic function call.ahk
 ; Indentation_style: https://de.wikipedia.org/wiki/Einrückungsstil#SL5small-Stil
+; https://autohotkey.com/boards/viewtopic.php?f=5&t=45239&p=204592#p204592
 ;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 global g_msg := ""
@@ -38,7 +39,4 @@ func1_by_value(args){
   g_msg := args["x"]
   g_msg .= args["y"] ","
 }
-
-
-; some interesting discussion: https://autohotkey.com/boards/viewtopic.php?t=191
 
