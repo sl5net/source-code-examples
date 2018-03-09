@@ -9,3 +9,5 @@ window.addNewControl(title="Title",
                      width=100,
                      height=50,
                      drawingNow=true)
+					 
+					 
