@@ -1,0 +1,3 @@
+from https://en.wikipedia.org/wiki/Named_parameter#Overview 09.03.2018 18:20:
+
+Named parameters are supported explicitly in many languages. A non-exhaustive selection of examples includes Ada, C# 4.0+, Ceylon, ColdFusion Markup Language (CFML), Common Lisp, Fortran, IDL, Kotlin, Mathematica, PL/SQL, Python, R, Ruby, Scala, Smalltalk, and Visual Basic. Note that Objective-C and Swift do not have named parameters (even though parts of the method name may look like named parameters).
